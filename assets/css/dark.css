@@ -1,0 +1,566 @@
+/*======================================== DARK MODE ==============================================*/
+#mode.dark-active{
+	background: #1a1b22;
+}
+#mode.dark-active label,
+#mode.dark-active b,
+#mode.dark-active h1,
+#mode.dark-active h2,
+#mode.dark-active h3,
+#mode.dark-active h4,
+#mode.dark-active h5,
+#mode.dark-active h6
+{
+	color: #fff;
+}
+
+#mode.dark-active p{
+	color: lightgrey;
+}
+
+#mode.dark-active input{
+	color: #fff;
+	background: #2c2d39;
+}
+/*
+==============================================
+	TOP NAVBAR SECTION START
+==============================================
+*/
+
+#mode.dark-active .top-navbar{
+	background: #1a1b22;
+}
+
+#mode.dark-active .navbar-toggler{
+	border-color: #fff !important;
+
+}
+#mode.dark-active .navbar-toggler span{
+	color: #fff;
+}
+#mode.dark-active .top-navbar #mynav  ul li a {
+	color: #FFF;
+}
+
+#mode.dark-active .top-navbar #mynav  ul li a:hover{
+	color: #3865f3;
+}
+
+/* ======== DROPDOWN ===== */
+#mode.dark-active .drop-down:hover .drop-down-menu{
+	display: inline-block;
+}
+#mode.dark-active .drop-down-menu{
+	background: #2c2d39;
+}
+
+#mode.dark-active .sub-drowp-down:hover .sub-drop-menu{
+	display: inline-block;
+}
+
+#mode.dark-active .sub-drop-menu{
+	background: #2c2d39;
+	border-radius: 5px;
+}
+.sub-drop-menu ul li a{
+	font-size: 13px !important;
+}
+
+#mode.dark-active .sub-sub-drowp-down:hover .sub-sub-drop-menu{
+	display: block;
+}
+
+#mode.dark-active .sub-sub-drop-menu{
+	background: #2c2d39;
+	border: none;
+}
+
+/* ======== DROPDOWN ===== */
+
+/*MODE CHANGER*/
+
+.mode-toggler.dark-active .toggler-btn{
+	background: #3865f3;
+	border-color: #333;
+}
+
+/*MODE CHANGER*/
+
+/*
+==============================================
+	TOP NAVBAR SECTION END
+==============================================
+*/
+
+
+/*
+==============================================
+	GALLERY SECTION START
+==============================================
+*/
+
+#mode.dark-active .galler-section .gallery-menu ul li a{
+	color: lightgrey;
+}
+#mode.dark-active .galler-section .gallery-menu ul li a:hover,
+#mode.dark-active .galler-section .gallery-menu ul li a.active{
+	color: #fff;
+	background: #3865f3;
+}
+
+/*
+==============================================
+	GALLERY SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	CLASS SECTION START
+==============================================
+*/
+
+#mode.dark-active .class-container .card{
+	border-radius: 15px;
+	margin: 10px 0;
+	background: transparent;
+	border-color: #333;
+}
+#mode.dark-active .class-card-active{
+	border: none;
+	box-shadow: none;
+	background: #2c2d39 !important;
+}
+
+
+#mode.dark-active .class-card .class-btn a:hover{
+	color: #fff;
+	background: transparent;
+}
+
+#mode.dark-active .more-class a{
+	font-size: 14px;
+	font-weight: 500;
+	padding: 10px 20px;
+	color: #fff;
+	background: #2c2d39;
+	border-radius: 4px;
+
+}
+#mode.dark-active .more-class a:hover{
+	color: #fff;
+	background: #3865f3;
+}
+/*
+==============================================
+	CLASS SECTION END
+==============================================
+*/
+/*
+==============================================
+	PROJECT MANAGEMENT SECTION START
+==============================================
+*/
+#mode.dark-active .management-topic{
+	box-shadow: none;
+	background: #2c2d39;
+	border-radius: 20px;
+}
+
+#mode.dark-active .management-topic .manage-list i{
+	color: #2c2d39;
+	background: #3f4a68;
+}
+/*
+==============================================
+	PROJECT MANAGEMENT SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	TESTIMONIAL SECTIN START
+==============================================
+*/
+#mode.dark-active .section-title span{
+	color: grey;
+}
+#mode.dark-active .test-card{
+	background: #2c2d39;
+}
+/*
+==============================================
+	TESTIMONIAL SECTIN END
+==============================================
+*/
+
+/*
+==============================================
+	PRICE AND PLAN SECTION START
+==============================================
+*/
+
+#mode.dark-active .plan-section .plan-card{
+	background: transparent;
+	border: 1px solid #333;
+}
+#mode.dark-active .plan-card-active{
+	background: #2c2d39 !important;
+	box-shadow: none;
+}
+#mode.dark-active .plan-section .plan-btn a{
+	color: #fff;
+}
+/*
+==============================================
+	PRICE AND PLAN SECTION END
+==============================================
+*/
+/*
+==============================================
+	Frequently Asked SECTION START
+==============================================
+*/
+
+#mode.dark-active .faq-search .faq-search-container input{
+	color: grey;
+	background: #2c2d39;
+}
+
+#mode.dark-active .faq-nav ul li a{
+	color: #fff;
+	
+}
+#mode.dark-active .faq-nav ul li a:hover,
+#mode.dark-active .faq-nav ul li a.active{
+	color: #3865f3;
+}
+.faq-accordion h4{
+	color: #3865f3 !important;
+}
+
+#mode.dark-active .panel-container{
+	border: none;
+	border-radius: 10px;
+	margin: 10px 0;
+	padding: 5px 10px;
+	background: #2c2d39;
+}
+#mode.dark-active .accordion-section .panel-default .panel-title a {
+    color: #fff;
+}
+/*
+==============================================
+	Frequently Asked SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	TERMS AND CONDITION SECTION START
+==============================================
+*/
+
+
+#mode.dark-active .terms-content h5{
+	color: #fff;
+	
+}
+#mode.dark-active .terms-chk i{
+	color: lightgrey;
+}
+/*
+==============================================
+	TERMS AND CONDITION SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	TEAM SECTION START
+==============================================
+*/
+
+#mode.dark-active .team-section .team-container .card{
+	background: #2c2d39;
+	box-shadow: none;
+}
+/*
+==============================================
+	TEAM SECTION END
+==============================================
+*/
+/*
+==============================================
+	OUR CLIENT SECTION START
+==============================================
+*/
+#mode.dark-active .our-client-img .card{
+	background: #2c2d39;
+	border: none;
+}
+/*
+==============================================
+	OUR CLIENT SECTION END
+==============================================
+*/
+/*
+==============================================
+	CONTACT SECTION START
+==============================================
+*/
+#mode.dark-active .contact-box-content .contact-icon{
+	background: #1e2641;
+}
+
+#mode.dark-active .contact-box .card{
+	border: none;
+	background: transparent;
+}
+#mode.dark-active .contact-form-container .card{
+	background: transparent;
+	border-color: #333;
+}
+#mode.dark-active .contact-form-container .contact-form textarea,
+#mode.dark-active .contact-form-container .contact-form input{
+	color: #fff;
+	background: #2c2d39;
+}
+
+#mode.dark-active .contact-form-container .contact-form .country-code{
+	border-right: 1px solid #666;
+}
+#mode.dark-active .contact-form-container .contact-form .contact-btn{
+	background: #3865f3 !important;
+}
+#mode.dark-active .contact-form-container .contact-form .contact-btn:hover{
+	color: #3865f3;
+	background: transparent !important;
+}
+/*
+==============================================
+	CONTACT SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	BLOG SECTION START
+==============================================
+*/
+#mode.dark-active .trend-post .trends-tag a,
+#mode.dark-active .popular-topic a{
+	border: 1px solid #333;
+	color: lightgrey;
+}
+
+#mode.dark-active .blog-section .section-title a{
+	font-size: 14px;
+	font-weight: 500;
+	color: #3865f3;
+}
+
+/*
+==============================================
+	BLOG SECTION END
+==============================================
+*/
+/*
+==============================================
+	CAREER TEAM SECTION START
+==============================================
+*/
+
+#mode.dark-active .career-team-container{
+	background: #2b2c38;
+}
+#mode.dark-active .career-img .card{
+	border: none;
+}
+
+/*
+==============================================
+	CAREER TEAM SECTION END
+==============================================
+*/
+/*
+==============================================
+	 CURRENT AVAILABLE SECTION START
+==============================================
+*/
+
+#mode.dark-active .crnt-ava-content .card{
+	background: transparent;
+	border-color: #333;
+}
+
+#mode.dark-active .crnt-ava-content .card .crnt-ava-heading h5{
+	color: #3865f3 !important;
+}
+#mode.dark-active .crnt-ava-content .card .card-body i{
+	color: #fff;
+}
+/*
+==============================================
+	 CURRENT AVAILABLE SECTION END
+==============================================
+*/
+/*
+==============================================
+	 PROCESS SECTION START
+==============================================
+*/
+
+#mode.dark-active .process-container .card{
+	border: none;
+	background: transparent;
+}
+#mode.dark-active .process-container .process-content .processp-count{
+	background: #252a42;
+}
+#mode.dark-active .process-container .process-content .processp-count h2{
+	color: #3865f3 !important;
+}
+
+/*
+==============================================
+	 PROCESS SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	CURRENT AVAILABLE SECOND SECTION START
+==============================================
+*/
+#mode.dark-active .ava-sec-section{
+	background: #2c2d39;
+}
+
+#mode.dark-active .ava-sec-section-container .card{
+
+	background: #1a1b22;
+	box-shadow:none;
+}
+
+#mode.dark-active .ava-sec-section .color-blue{
+	color: #3763ee;
+	background: #1e2641;
+}
+#mode.dark-active .ava-sec-section .color-orange{
+	color: #cb9a3a;
+	background: #3c3326;
+}
+#mode.dark-active .ava-sec-section .color-green{
+	color: #31b888;
+	background: #1d3432;
+}
+
+/*
+==============================================
+	CURRENT AVAILABLE SECOND SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	WORK HERE SECTION START
+==============================================
+*/
+#mode.dark-active .work-here-box-content .card{
+	background: #2c2d39;
+}
+#mode.dark-active .work-here-box-content .card .card-body h1{
+	color: #3865f3 !important;
+}
+/*
+==============================================
+	WORK HERE SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	UI UX DESIGNER SECTION START
+==============================================
+*/
+
+#mode.dark-active .ui-ux-content  .ux-theme-l-content .ui-ux-theme{
+	background: #2c2d39;
+	box-shadow: none;
+}
+
+#mode.dark-active .ui-ux-description ul li{
+	color: lightgrey;
+}
+
+#mode.dark-active .ui-ux-desc-btn .card{
+	background: #2c2d39;
+}
+/*
+==============================================
+	UI UX DESIGNER SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	APPLY FORM SECTION START
+==============================================
+*/
+
+#mode.dark-active .apply-form .card{
+	border-radius: 20px;
+	background: transparent;
+	border-color: #333;
+}
+#mode.dark-active .apply-form .card .card-body textarea,
+#mode.dark-active .apply-form .card .card-body select,
+#mode.dark-active .apply-form .card .card-body input{
+	color: #fff;
+	background: #2c2d39;
+}
+
+
+.apply-form .card .card-body button{
+	width: 180px;
+	color: #fff;
+	background: #3865f3;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 10px 20px;
+	margin-top: 40px;
+	border: 1px solid #3865f3;
+	border-radius: 5px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+.apply-form .card .card-body button:hover{
+	color: #3865f3;
+	background: transparent;
+}
+
+/*
+==============================================
+	APPLY FORM SECTION END
+==============================================
+*/
+
+
+/*	===================================     PAGE NOT FOUND CSS     ========================================	*/
+#mode.dark-active .page-heading h1{
+	color: #3865f3;
+}
+#mode.dark-active .page-content h2{
+	color: #fff;
+}
+
+/*	===================================     PAGE NOT FOUND CSS     ========================================	*/
+
+
+
+/*======================================== DARK MODE ==============================================*/
+

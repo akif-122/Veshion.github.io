@@ -1,0 +1,448 @@
+
+@media screen and (max-width: 1199px ){
+/*
+==============================================
+	CAREER TEAM SECTION START
+==============================================
+*/
+.career-team-container{
+	position: relative;
+	width: 400px;
+	height: 250px;
+}
+.career-img{
+	position: absolute;
+}
+.career-img1{
+	top: -80px;
+}
+.career-img2{
+	top: 10px;
+	right: 5px;
+}
+.career-img3{
+	left: 5px;
+	bottom: 30px !important;
+	
+}
+.career-img4{
+	right: 5px;
+	bottom: -60px;
+}
+/*
+==============================================
+	CAREER TEAM SECTION END
+==============================================
+*/
+}
+
+
+
+
+@media screen and (max-width: 991px){
+/*#mynav ul li{
+	border-bottom: 1px solid lightgrey;
+
+}*/
+.sub-drowp-down i{
+	margin-left: 5px;
+}
+.nav-item{
+	text-align: center;
+	border-bottom: 1px solid lightgrey;
+
+}
+.border-bottom{
+	border-bottom: 1px solid lightgrey !important;
+
+}
+	/* ======== DROPDOWN ===== */
+.drop-down:hover .drop-down-menu{
+	display: inline-block;
+}
+.drop-down-menu{
+	width: 100%;
+	background: #fff;
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+	position: relative;
+	z-index: 100;
+	display: none;
+}
+.drop-down-menu ul li a{
+	padding: 8px 15px;
+	text-align: center;
+	margin: 0 !important;
+	display: flex;
+	justify-content: center !important;
+	align-items: center !important;
+}
+.drop-down-menu ul li a:hover i{
+	transform: rotate(90deg);
+}
+.sub-drowp-down{
+	position: relative;
+}
+.sub-drowp-down:hover .sub-drop-menu{
+	display: inline-block;
+}
+
+.sub-drop-menu{
+	width: 100%;
+	background: #fff;
+	border-radius: 5px;
+	border: 1px solid lightgrey;
+	position: relative;
+	left:  0;
+	top: 0;
+	z-index: 100;
+	display: none;
+
+
+}
+
+.sub-drop-menu ul li a{
+	font-size: 13px !important;
+}
+
+
+
+.sub-sub-drop-menu{
+	background: #fff;
+	border-radius: 5px;
+	border: 1px solid lightgrey;
+	width: 100%;
+	display: none;
+	position: relative;
+	left: 0;
+	top: 0;
+
+
+}
+.sub-sub-drowp-down{
+	position: relative;
+	border: none;
+
+}
+.sub-sub-drowp-down .sub-sub-drop-link i{
+	margin-left: 5px;
+	margin-top: 3px;
+
+}
+
+.sub-sub-drowp-down:hover .sub-sub-drop-link{
+	color: #3865f3 !important;
+}
+.sub-sub-drowp-down:hover .sub-sub-drop-link i{
+	transform: rotate(90deg);
+}
+.sub-sub-drowp-down:hover .sub-sub-drop-menu{
+	display: block;
+}
+/* ======== DROPDOWN ===== */
+
+
+
+
+.header-content h1{
+	font-size: 30px !important;
+
+}
+
+
+
+/*
+==============================================
+	CAREER TEAM SECTION START
+==============================================
+*/
+.career-team-container{
+	position: relative;
+	width: 400px;
+	height: 250px;
+}
+.career-img{
+	position: absolute;
+}
+.career-img1{
+	top: -80px;
+}
+.career-img2{
+	top: 15px;
+	right: 5px;
+}
+.career-img3{
+	left: 5px;
+	bottom: 15px !important;
+	
+}
+.career-img4{
+	right: 5px;
+	bottom: -80px;
+}
+/*
+==============================================
+	CAREER TEAM SECTION END
+==============================================
+*/
+}
+
+
+
+@media screen and (max-width: 767px){
+.header-content h1{
+	font-size: 40px !important;
+
+}
+/*
+==============================================
+	CAREER TEAM SECTION START
+==============================================
+*/
+
+.career-team-container{
+	position: relative;
+	width: 100%;
+	height: 300px;
+}
+.career-img{
+	position: absolute;
+}
+.career-img1{
+	top: -100px;
+}
+.career-img2{
+	top: 15px;
+	right: 5px;
+}
+.career-img3{
+	left: 5px;
+	bottom: 15px !important;
+	
+}
+.career-img4{
+	right: 5px;
+	bottom: -100px;
+}
+
+/*
+==============================================
+	CAREER TEAM SECTION END
+==============================================
+*/
+}
+
+@media screen and (max-width: 575px ){
+/*
+==============================================
+	GALLERY SECTION START
+==============================================
+*/
+
+.galler-section .gallery-menu ul li a{
+	
+	margin:  5px;
+	font-size: 13px;
+	padding: 5px 10px;
+	
+
+}
+
+/*
+==============================================
+	GALLERY SECTION END
+==============================================
+*/
+/*
+==============================================
+	CAREER TEAM SECTION START
+==============================================
+*/
+
+.career-team-container{
+	position: relative;
+	width: 100%;
+	height: 300px;
+}
+.career-img{
+	position: absolute;
+}
+.career-img1{
+	top: -100px;
+}
+.career-img2{
+	top: 15px;
+	right: 5px;
+}
+.career-img3{
+	left: 5px;
+	bottom: 15px !important;
+	
+}
+.career-img4{
+	right: 5px;
+	bottom: -100px;
+}
+
+/*
+==============================================
+	CAREER TEAM SECTION END
+==============================================
+*/
+
+/*
+==============================================
+	UI UX DESIGNER SECTION START
+==============================================
+*/
+.ui-ux-section-img{
+	height: 150px;
+	margin-bottom: 180px;
+	position: relative;
+}
+.ui-ux-section-img img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.ui-ux-content{
+	position: absolute;
+	bottom: -40%;
+
+}
+.ui-ux-content  .ux-theme-l-content .ui-ux-theme{
+	width: 80px;
+	height: 80px;
+	border-radius: 5px !important;
+	margin-right: 5px;
+	
+}
+.ui-ux-content  .ux-theme-l-content .ui-ux-theme img{
+	width: 40px;
+	height: 40px;
+
+}
+.ux-theme-l-text h2{
+	font-size: 15px;
+	
+}
+.ux-theme-l-text span{
+	font-size: 10px;
+	color: grey;
+}
+.ux-theme-r-content p{
+	font-size: 12px;
+	color: grey;
+}
+.ux-theme-r-content h5{
+	font-size: 12px;
+	font-weight: bold;
+}
+/*
+==============================================
+	UI UX DESIGNER SECTION START
+==============================================
+*/
+}
+
+
+@media screen and (max-width: 500px ){
+
+.header-content h1{
+	font-size: 38px;
+
+}
+/*
+==============================================
+	CAREER TEAM SECTION START
+==============================================
+*/
+
+.career-team-container{
+	position: relative;
+	width: 100%;
+	height: 240px;
+}
+.career-img{
+	position: absolute;
+}
+.career-img1{
+	top: -100px;
+}
+.career-img2{
+	top: 15px;
+	right: 5px;
+}
+.career-img3{
+	left: 5px;
+	bottom: 15px !important;
+	
+}
+.career-img4{
+	right: 5px;
+	bottom: -100px;
+}
+
+/*
+==============================================
+	CAREER TEAM SECTION END
+==============================================
+*/
+}
+
+@media screen and (max-width: 425px ){
+.header-content h1{
+	font-size: 24px !important;
+
+}
+/*
+==============================================
+	CAREER TEAM SECTION START
+==============================================
+*/
+
+.career-team-container{
+	position: relative;
+	width: 100%;
+	height: 200px;
+}
+.career-img{
+	position: absolute;
+}
+.career-img1{
+	top: -80px;
+}
+.career-img2{
+	top: 0px;
+	right: 5px;
+}
+.career-img3{
+	left: 5px;
+	bottom: 10px !important;
+	
+}
+.career-img4{
+	right: 5px;
+	bottom: -70px;
+}
+
+
+
+/*
+==============================================
+	CAREER TEAM SECTION END
+==============================================
+*/
+
+/*	===================================     PAGE NOT FOUND CSS     ========================================	*/
+.page-heading h1{
+	color: #3865f3;
+	font-size: 12rem;
+	font-weight: bolder;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+}
+/*	===================================     PAGE NOT FOUND CSS     ========================================	*/
+
+}
